@@ -27,3 +27,7 @@ FMT-C4950 資料庫
 旋停測試 50min (非極限測試)
 
 飛控相容性 Ardupilot、PX4
+
+測試影片 https://youtu.be/cADTLMagKtQ?si=jL-LeGGIyqdQXzaa
+
+PX4測試影片 https://youtu.be/Z2MJ0RoOC3E?si=-JpW3j51z4fDMYBb
