@@ -3,6 +3,7 @@ FMT-C4950 資料庫
 在此我會放置各版本C4950多旋翼檔案分享
 
 <img width="2000" height="1350" alt="5f9d29f2-02c6-4ef9-a01b-14d891fe7709" src="https://github.com/user-attachments/assets/de80976b-7996-4a73-908c-84a47a2ab8c8" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/dbf8277f-ab8f-4251-b7d4-4a5aab84c028" />
 
 規格數據:
 
