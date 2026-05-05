@@ -9,12 +9,13 @@ FMT-C4950 資料庫
 材質  碳纖維、6061鋁、塑膠
 
 軸距直徑  950mm 
-
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dc079015-8020-40bf-b4a1-03fb4f2fe36c" />
 重量  KIT-2KG  PNP-3.8KG  1BATT-6.2KG
 
 框架折疊尺寸 長450mm * 寬410mm * 高484mm
-
+<img width="500" height="449" alt="image" src="https://github.com/user-attachments/assets/d4e61482-0e60-4ac9-a792-e2f9b9acae77" />
 框架展開尺寸 長740mm * 寬740mm * 高484mm
+<img width="717" height="414" alt="image" src="https://github.com/user-attachments/assets/54044c2c-6661-4b57-8b1b-a23b50b50fb9" />
 
 最大起飛重量 10公斤
 
